@@ -45,7 +45,7 @@ Pneumothorax · Consolidation · Edema · Emphysema · Fibrosis · Pleural Thick
 ## 🚀 How to run
 
 1. Download the **[NIH Chest X-rays dataset](https://www.kaggle.com/datasets/nih-chest-xrays/data)** (about 112,000 images).
-2. Unzip `chest-x-ray-14--main.zip` and place these next to the notebooks:
+2. Clone or download this repo, and place these inside it, next to the notebooks:
    - `Data_Entry_2017_v2020.csv`
    - image folders named `images/` and `images 2/`. You can also use a subset of the images: the notebooks
      automatically skip rows whose image files are missing.
